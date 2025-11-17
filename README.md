@@ -1,2 +1,19 @@
-# Greedy-Coin-Change-CPP
-This repository includes a C++ implementation of the Coin Change problem using greedy or iterative approaches. The program determines the minimum number of coins needed for a given value based on available denominations. Ideal for learning greedy strategy applications and currency denomination optimization
+# Greedy Coin Change Algorithm (C++)
+
+This repository contains a C++ implementation of the **Greedy Coin Change Algorithm**, which determines the minimum number of coins needed to make a given amount.
+
+## Features
+- Greedy-based coin selection
+- User-defined denominations
+- Fast and simple approach
+- Example-driven implementation
+
+## Use Cases
+- Currency distribution
+- Vending machine logic
+- Greedy algorithm practice
+
+## File
+- `coin.cpp`
+
+## How to Run
